@@ -5,8 +5,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/lexkong/lager"
-	. "github.com/lexkong/lager/chug"
+	"github.com/Rehtt/log/lager"
+	. "github.com/Rehtt/log/lager/chug"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
